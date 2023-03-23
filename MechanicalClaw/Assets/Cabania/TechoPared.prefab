@@ -1,0 +1,1137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5710408101037601676
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1823727766205678541}
+  m_Layer: 0
+  m_Name: TechoPared
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1823727766205678541
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5710408101037601676}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -15.14, y: 10, z: -20.04}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1816720246340118366}
+  - {fileID: 1816720246425320346}
+  - {fileID: 1816720246243862650}
+  - {fileID: 1816720247124637381}
+  - {fileID: 1816720246187334187}
+  - {fileID: 6233282349893574210}
+  - {fileID: 6233282351366302181}
+  - {fileID: 5549123789170200292}
+  - {fileID: 2784596925629817147}
+  - {fileID: 8324928304305934868}
+  - {fileID: 6371067154875833373}
+  - {fileID: 8218220932040735682}
+  - {fileID: 7530510630077908348}
+  - {fileID: 3597256000717863506}
+  - {fileID: 4825655058204692211}
+  - {fileID: 4522334700057572627}
+  m_Father: {fileID: 0}
+  m_RootOrder: -1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &237748132855438093
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1823727766205678541}
+    m_Modifications:
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 5.368941
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -4.419998
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.50005674
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.4999433
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.50005674
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.4999433
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -89.987
+      objectReference: {fileID: 0}
+    - target: {fileID: 8267284321341462291, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_Name
+      value: Tronco V2 (7)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+--- !u!4 &7530510630077908348 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+  m_PrefabInstance: {fileID: 237748132855438093}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1748820525947587685
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1823727766205678541}
+    m_Modifications:
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 9.201705
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.50005674
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.4999433
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.50005674
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.4999433
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -89.987
+      objectReference: {fileID: 0}
+    - target: {fileID: 8267284321341462291, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_Name
+      value: Tronco V2 (4)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+--- !u!4 &8324928304305934868 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+  m_PrefabInstance: {fileID: 1748820525947587685}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1856016629795857843
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1823727766205678541}
+    m_Modifications:
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 6.489424
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.6599998
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.50005674
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.4999433
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.50005674
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.4999433
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -89.987
+      objectReference: {fileID: 0}
+    - target: {fileID: 8267284321341462291, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_Name
+      value: Tronco V2 (6)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+--- !u!4 &8218220932040735682 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+  m_PrefabInstance: {fileID: 1856016629795857843}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2796572092394131605
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1823727766205678541}
+    m_Modifications:
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 12.159574
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.9400005
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.50005674
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.4999433
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.50005674
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.4999433
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -89.987
+      objectReference: {fileID: 0}
+    - target: {fileID: 8267284321341462291, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_Name
+      value: Tronco V2 (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+--- !u!4 &5549123789170200292 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+  m_PrefabInstance: {fileID: 2796572092394131605}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2969335168594022530
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1823727766205678541}
+    m_Modifications:
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.5559828
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -7.289999
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.50005674
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.4999433
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.50005674
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.4999433
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -89.987
+      objectReference: {fileID: 0}
+    - target: {fileID: 8267284321341462291, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_Name
+      value: Tronco V2 (9)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+--- !u!4 &4825655058204692211 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+  m_PrefabInstance: {fileID: 2969335168594022530}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3722096439116743276
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1823727766205678541}
+    m_Modifications:
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 8.131976
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.6699982
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.50005674
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.4999433
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.50005674
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.4999433
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -89.987
+      objectReference: {fileID: 0}
+    - target: {fileID: 8267284321341462291, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_Name
+      value: Tronco V2 (5)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+--- !u!4 &6371067154875833373 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+  m_PrefabInstance: {fileID: 3722096439116743276}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4416914586021399143
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1823727766205678541}
+    m_Modifications:
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 17.486998
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.6300001
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 5.9000006
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.54167527
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.45451945
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.54167527
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.45451945
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 80
+      objectReference: {fileID: 0}
+    - target: {fileID: 4398912360490902619, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_Name
+      value: Tronco
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: ef8682b8055013346b8023c237f04649, type: 3}
+--- !u!4 &1816720246340118366 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+  m_PrefabInstance: {fileID: 4416914586021399143}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4416914586069943619
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1823727766205678541}
+    m_Modifications:
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 17.486998
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 29.239998
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.6300001
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 4.9400005
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.54167527
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.45451945
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.54167527
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.45451945
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 80
+      objectReference: {fileID: 0}
+    - target: {fileID: 4398912360490902619, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_Name
+      value: Tronco (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: ef8682b8055013346b8023c237f04649, type: 3}
+--- !u!4 &1816720246243862650 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+  m_PrefabInstance: {fileID: 4416914586069943619}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4416914586139195154
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1823727766205678541}
+    m_Modifications:
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 17.487
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 14.099999
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -9.199999
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 4398912360490902619, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_Name
+      value: Tronco (4)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: ef8682b8055013346b8023c237f04649, type: 3}
+--- !u!4 &1816720246187334187 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+  m_PrefabInstance: {fileID: 4416914586139195154}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4416914586375034531
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1823727766205678541}
+    m_Modifications:
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 17.486998
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.6300001
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 5.9000006
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.54167527
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.45451945
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.54167527
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.45451945
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 80
+      objectReference: {fileID: 0}
+    - target: {fileID: 4398912360490902619, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_Name
+      value: Tronco (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: ef8682b8055013346b8023c237f04649, type: 3}
+--- !u!4 &1816720246425320346 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+  m_PrefabInstance: {fileID: 4416914586375034531}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4416914586811430804
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1823727766205678541}
+    m_Modifications:
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 13.795477
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.9300003
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.50005674
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.4999433
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.50005674
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.4999433
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -89.987
+      objectReference: {fileID: 0}
+    - target: {fileID: 8267284321341462291, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_Name
+      value: Tronco V2 (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+--- !u!4 &6233282351366302181 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+  m_PrefabInstance: {fileID: 4416914586811430804}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4416914586814340092
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1823727766205678541}
+    m_Modifications:
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 17.486998
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 15.14
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.6300001
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 4.9400005
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.54167527
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.45451945
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.54167527
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.45451945
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 80
+      objectReference: {fileID: 0}
+    - target: {fileID: 4398912360490902619, guid: ef8682b8055013346b8023c237f04649, type: 3}
+      propertyPath: m_Name
+      value: Tronco (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: ef8682b8055013346b8023c237f04649, type: 3}
+--- !u!4 &1816720247124637381 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2628484913729432889, guid: ef8682b8055013346b8023c237f04649, type: 3}
+  m_PrefabInstance: {fileID: 4416914586814340092}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4416914587477786675
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1823727766205678541}
+    m_Modifications:
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 14.905255
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 5.7400007
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.50005674
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.4999433
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.50005674
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.4999433
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -89.987
+      objectReference: {fileID: 0}
+    - target: {fileID: 8267284321341462291, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_Name
+      value: Tronco V2
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+--- !u!4 &6233282349893574210 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+  m_PrefabInstance: {fileID: 4416914587477786675}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5578263431683505994
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1823727766205678541}
+    m_Modifications:
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 11.090858
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.2000008
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.50005674
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.4999433
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.50005674
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.4999433
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -89.987
+      objectReference: {fileID: 0}
+    - target: {fileID: 8267284321341462291, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_Name
+      value: Tronco V2 (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+--- !u!4 &2784596925629817147 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+  m_PrefabInstance: {fileID: 5578263431683505994}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6129282943238941538
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1823727766205678541}
+    m_Modifications:
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.66678095
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -8.449999
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.50005674
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.4999433
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.50005674
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.4999433
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -89.987
+      objectReference: {fileID: 0}
+    - target: {fileID: 8267284321341462291, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_Name
+      value: Tronco V2 (10)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+--- !u!4 &4522334700057572627 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+  m_PrefabInstance: {fileID: 6129282943238941538}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6494503378417787939
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1823727766205678541}
+    m_Modifications:
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 3.661432
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -5.4799995
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.50005674
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.4999433
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.50005674
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.4999433
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -89.987
+      objectReference: {fileID: 0}
+    - target: {fileID: 8267284321341462291, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+      propertyPath: m_Name
+      value: Tronco V2 (8)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+--- !u!4 &3597256000717863506 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7767892625289682545, guid: 98e2ac8c7dbc4e04892674542e76081e, type: 3}
+  m_PrefabInstance: {fileID: 6494503378417787939}
+  m_PrefabAsset: {fileID: 0}
